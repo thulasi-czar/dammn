@@ -1,0 +1,15 @@
+ Volume in drive P is Projects
+ Volume Serial Number is 6CEB-3318
+
+ Directory of P:\Practise
+
+03-09-2024  15:11    <DIR>          .
+03-09-2024  15:11    <DIR>          ..
+03-09-2024  14:43    <DIR>          .idea
+03-09-2024  15:11               266 main.py
+03-09-2024  15:11                 0 output.txt
+03-09-2024  13:19                 0 test_file.py
+23-08-2024  14:20    <DIR>          venv
+28-08-2024  09:25    <DIR>          __pycache__
+               3 File(s)            266 bytes
+               5 Dir(s)  116,189,003,776 bytes free
